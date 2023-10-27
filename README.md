@@ -1,4 +1,4 @@
-# Big data - Problem Set N° 2
+# Big data - Problem Set N° 3
 
 ## General information
 * Authors: Camila Riancho, Diego Fasan and Ronny M. Condor
